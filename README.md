@@ -72,4 +72,11 @@ To help you get your feet wet and get you familiar with our contribution process
 
 ### License
 
+we need to change a version of the software 
+
+that's all and everyone can see that  
+
+That's the life 
+
+
 React is [MIT licensed](./LICENSE).
